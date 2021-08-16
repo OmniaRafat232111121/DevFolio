@@ -1,0 +1,720 @@
+.properties span::after {
+  content: "";
+  animation: typing 20s linear infinite;
+}
+.properties span{
+  font-weight:700 ;
+  font-size: 30px;
+}
+@keyframes typing {
+  0% {
+      content: "D|";
+  }
+
+  1% {
+      content: "De|";
+  }
+
+  2% {
+      content: "Des|";
+  }
+
+  3% {
+      content: "Desi|";
+  }
+
+  4% {
+      content: "Desin|";
+  }
+
+  5% {
+      content: "Desine |";
+  }
+
+  6% {
+      content: "Desiner|";
+  }
+
+  7% {
+      content: "Desiner.|";
+  }
+
+  8% {
+      content: "Desiner|";
+  }
+
+  9% {
+      content: "Desine|";
+  }
+
+  10% {
+      content: "Desin|";
+  }
+
+  11% {
+      content: "Desi|";
+  }
+
+  12% {
+      content: "Des|";
+  }
+
+  13% {
+      content: "De |";
+  }
+
+  14% {
+      content: "D|";
+  }
+
+  15% {
+      content: "|";
+  }
+
+  16% {
+      content: "D|";
+  }
+
+  17% {
+      content: "De|";
+  }
+
+  18% {
+      content: "Dev|";
+  }
+
+  19% {
+      content: "Deve|";
+  }
+
+  20% {
+      content: "Devel|";
+  }
+
+  21% {
+      content: "Develo|";
+  }
+
+  22% {
+      content: "Develop|";
+  }
+
+  23% {
+      content: "Develope|";
+  }
+
+  25% {
+      content: "Developer|";
+  }
+
+  26% {
+      content: "Develope|";
+  }
+
+  27% {
+      content: "Develop|";
+  }
+
+  28% {
+      content: "Develo|";
+  }
+
+  29% {
+      content: "Devel|";
+  }
+
+  30% {
+      content: "Deve|";
+  }
+
+  31% {
+      content: "Dev|";
+  }
+
+  32% {
+      content: "De|";
+  }
+
+  33% {
+      content: "D|";
+  }
+
+  34% {
+      content: "|";
+  }
+
+  35% {
+      content: "Developer.|";
+  }
+
+  36% {
+      content: "Developer|";
+  }
+
+  37% {
+      content: "f|";
+  }
+
+  38% {
+      content: "fr|";
+  }
+
+  39% {
+      content: "fre|";
+  }
+
+  40% {
+      content: "free|";
+  }
+
+  41% {
+      content: " freel|";
+  }
+
+  42% {
+      content: "freela|";
+  }
+
+  43% {
+      content: "freelan|";
+  }
+
+  44% {
+      content: "freelanc|";
+  }
+
+  45% {
+      content: "freelance|";
+  }
+
+  46% {
+      content: "freelancer|";
+  }
+
+  47% {
+      content: "freelancer|";
+  }
+
+  48% {
+      content: "freelance|";
+  }
+
+  49% {
+      content: "freelanc|";
+  }
+
+  50% {
+      content: "freelan|";
+  }
+
+  51% {
+      content: "freela|";
+  }
+
+  52% {
+      content: "freel |";
+  }
+
+  53% {
+      content: "free|";
+  }
+
+  54% {
+      content: "fre|";
+  }
+
+  55% {
+      content: "fr|";
+  }
+
+  56% {
+      content: "f|";
+  }
+
+  57% {
+      content: "|";
+  }
+
+  58% {
+      content: "freelancer.|";
+  }
+
+  59% {
+      content: "freelancer|";
+  }
+
+  60% {
+      content: "A Graphic |";
+  }
+
+  61% {
+      content: "A Graphic D|";
+  }
+
+  62% {
+      content: "A Graphic De|";
+  }
+
+  63% {
+      content: "A Graphic Des|";
+  }
+
+  64% {
+      content: "A Graphic Desi|";
+  }
+
+  65% {
+      content: "A Graphic Desig|";
+  }
+
+  66% {
+      content: "A Graphic Design|";
+  }
+
+  67% {
+      content: "A Graphic Designe|";
+  }
+
+  68% {
+      content: "A Graphic Designer|";
+  }
+
+  69% {
+      content: "A Graphic Designer.|";
+  }
+
+  70% {
+      content: "A Graphic Designer|";
+  }
+
+  71% {
+      content: "A Graphic Designe|";
+  }
+
+  72% {
+      content: "A Graphic Design|";
+  }
+
+  73% {
+      content: "A Graphic Desig|";
+  }
+
+  74% {
+      content: "A Graphic Desi|";
+  }
+
+  75% {
+      content: "A Graphic Des|";
+  }
+
+  76% {
+      content: "A Graphic De|";
+  }
+
+  77% {
+      content: "A Graphic D|";
+  }
+
+  78% {
+      content: "A Graphic |";
+  }
+
+  79% {
+      content: "A Graphic|";
+  }
+
+  80% {
+      content: "A Graphi|";
+  }
+
+  81% {
+      content: "A Graph|";
+  }
+
+  82% {
+      content: "A Grap|";
+  }
+
+  83% {
+      content: "A Gra|";
+  }
+
+  84% {
+      content: "A Gr|";
+  }
+
+  85% {
+      content: "A G|";
+  }
+
+  86% {
+      content: "A |";
+  }
+
+  87% {
+      content: "A|";
+  }
+
+  88% {
+      content: "|";
+  }
+
+  89% {
+      content: "";
+  }
+
+  90% {
+      content: "";
+  }
+
+  91% {
+      content: "";
+  }
+
+  92% {
+      content: "";
+  }
+
+  93% {
+      content: "";
+  }
+
+  94% {
+      content: "";
+  }
+
+  95% {
+      content: "";
+  }
+
+  96% {
+      content: "";
+  }
+
+  97% {
+      content: "";
+  }
+
+  98% {
+      content: "";
+  }
+
+  99% {
+      content: "";
+  }
+
+  100% {
+      content: "";
+  }
+}
+.navbar {
+  
+    
+    background-image: url(../images/intro-bg.jpg);
+  }
+  
+
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    display: flex;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 600px;
+    border-bottom: 3px solid transparent;
+    text-transform: uppercase;
+  }
+  
+  .navbar a:hover {
+    border-bottom: 4px solid white;
+  }
+  
+  .navbar a.active {
+    border-bottom: 4px solid white;
+  }
+  header{
+    background-image: url(../images/intro-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+   
+   
+   }
+
+   .Hero h1{
+    font-weight: 800;
+    font-size: 5rem;
+    font-family: "lato";
+}
+
+.title{
+font-weight: 600;
+color: #1e1e1e;
+font-size: 1.1rem;
+}
+.skill{
+
+margin-top: -200px;
+padding:10px;
+}
+
+h3{
+  
+
+  position: relative;
+  
+}
+h3::after{
+  content:"";
+  width:90px;
+  height:3px;
+  margin-top: 10px;
+  background-color:#0078ff;
+  position: absolute;
+  top:100%;
+  left:0;
+}
+h2
+{
+  text-align: center;
+
+  position: relative;
+}
+h2::after{
+  content:"";
+  width:80px;
+  height:3px;
+  margin-top: 20px;
+  background-color:#0078ff;
+  position: absolute;
+  top:50%;
+  left:700px;
+}
+.col-md{
+  height:100%;
+  width: 100%;
+  
+}
+.carousel-item img{
+  width:150px;
+}
+ .service-ico{
+   text-align: center;
+   position: relative;
+   box-shadow: 0 0 0 10px #0078ff;
+   border-radius: 50%;
+   height: 100px;
+   width: 100px;
+   font-size: 2rem;
+   padding:30px;
+   line-height: 1.55;
+   margin: 0 auto;
+   
+ }
+ 
+ .service-ico::before{
+   content: "";
+   position: absolute;
+   top:100%;
+   left:0;
+
+ }
+ .service-ico:hover{
+ background-color: #0078ff ;
+ box-shadow:0px 0px  0 10px  #a5c8f0;
+
+ }
+ .icons{
+   color: #0078ff;
+ }
+ .zoom{
+   overflow: hidden;
+ }
+ .content{
+   position:relative;
+ }
+.card-category-box{
+  position:absolute;
+  top:-16px;
+  left:0;
+  right:0;
+  
+  
+}
+.zoom:hover img{
+ 
+  transform: scale(1.5); 
+}
+.btn-primary:hover{
+  box-shadow:0px 0px  0 10px  #90bef1;
+}
+.aut{
+  border-radius: 50%;
+
+}
+.avatar{
+width: 32px;
+    height: 32px;
+    margin-right: 4px;
+    overflow: hidden;
+}
+.aut a:hover{
+  color:#0078ff;
+  
+}
+.btn-primary{
+  border-radius: 12px;
+
+
+}
+
+.social-panel{
+ 
+  font-size:20px;
+  
+}
+.icon{
+  width:50px;
+  height:50px;
+border:4px solid #0078ff;
+
+}
+.icon:hover{
+  box-shadow:0px 0px  0 10px  #90bef1;
+}
+.banner{
+  background-image: url(../images/work.jpg);
+  background-attachment: fixed;
+  padding:20vh 0;
+  position: relative;
+
+}
+.banner::after{
+  content:"";
+  display:block;
+  width:100%;
+  height:100%;
+  background-color:#0078ff;
+  opacity: 0.4;
+  position: absolute;
+  top:0;
+  left:0;
+  
+}
+.banner> *{
+  position: relative;
+  color:white;
+  z-index:  999;
+ 
+}
+.contentt{
+  color:white;
+  font-size: 20px;
+}
+
+
+
+
+footer{
+  background-image: url(../images/overlay-bg.jpg);
+  background-attachment: fixed;
+ padding:50px 0px;
+  position: relative;
+
+}
+.slider-area{
+  background-image: url(../images/overlay-bg.jpg);
+  background-attachment: fixed;
+  padding:20vh 0;
+  background-size: cover;
+   position: relative;
+}
+ .slider-area::after{
+  content:"";
+  display:block;
+  width:100%;
+  height:100%;
+  background-color:#0078ff ;
+  position: absolute;
+  opacity: 0.7;
+  top:0;
+  left:0;
+ }
+ .slider-area{
+   position:relative;
+ }
+ .slider-area > *{
+   position: relative;
+   color:white;
+   z-index:  999;
+  
+ }
+ 
+ .layer::after{
+  content:"";
+  display:block;
+  width:100%;
+  height:100%;
+  background-color:#0078ff ;
+  position: absolute;
+  opacity: 0.5;
+  top:0;
+  left:0;
+  
+}
+.layer{
+  position:relative;
+}
+
+.layer > *{
+ 
+
+position: relative;
+  
+z-index:  999;
+} 
+ .carousel-indicators button{
+   width: 15px;
+   height:15px;
+   border-radius: 50%;
+   margin:5px;
+ }
+
+ .ico{
+  text-align: center;
+  position: relative;
+  box-shadow: 0 0 0 10px #ffff;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  font-size: 2rem;
+  padding:30px;
+  line-height: 1.55;
+  margin: 0 auto;
+  
+}
+
+
+.ico:hover{
+  background-color: #0078ff ;
+  box-shadow:0px 0px  0 10px  #a5c8f0;
+  
+  }
+  .icco{
+    color:#0078ff;
+    font-size: 15px;
+  }
+.footer{
+    background-color: #0078ff;
+    
+    color: #ffff;
+    margin-bottom: -60px;
+  }
+strong{
+  font-size: bolder;
+}
+h1{
+  font-weight: 700;
+}
